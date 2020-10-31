@@ -30,6 +30,18 @@
       "geometry": "geometry.humanoid.custom",
       "texture": "sunset.png",
       "type": "free"
+    },
+    {
+      "localization_name": "Banana",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "banana.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Pink Lemonade",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pinklemonade.png",
+      "type": "free"
     }
   ],
   "serialize_name": "Dots",
