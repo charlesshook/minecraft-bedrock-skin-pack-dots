@@ -56,6 +56,6 @@
       "type": "free"
     }
   ],
-  "serialize_name": "Dots",
-  "localization_name": "Dots"
+  "serialize_name": "Texture",
+  "localization_name": "Texture"
 }
