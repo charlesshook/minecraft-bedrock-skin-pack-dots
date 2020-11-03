@@ -42,6 +42,18 @@
       "geometry": "geometry.humanoid.custom",
       "texture": "pinklemonade.png",
       "type": "free"
+    },
+    {
+      "localization_name": "Camo",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "camo.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Another Blue",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "anotherblue.png",
+      "type": "free"
     }
   ],
   "serialize_name": "Dots",
