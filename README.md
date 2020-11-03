@@ -1,4 +1,8 @@
-# minecraft-bedrock-skin-pack-dots
+# Texture Skin Pack For Minecraft Bedrock
+
+<p>
+Look cool with this Texture Minecraft Skin Pack! To use go to releases and download the .mcpack file and import it into Minecraft.
+</p>
 
 #### Chuckalicious Minecraft Skin
 ![Chuckalicious](./images/chuckalicious.png)
