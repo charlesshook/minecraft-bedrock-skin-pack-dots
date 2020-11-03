@@ -1,0 +1,61 @@
+{
+  "geometry": "skinpacks/skins.json",
+  "skins": [
+    {
+      "localization_name": "Chuckalicious",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "chuckalicious.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Blue",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "blue.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Marshmallow",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "marshmallow.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Summer",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "summer.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Sunset",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "sunset.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Banana",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "banana.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Pink Lemonade",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pinklemonade.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Camo",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "camo.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Another Blue",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "anotherblue.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Texture",
+  "localization_name": "Texture"
+}

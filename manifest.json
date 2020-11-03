@@ -1,0 +1,15 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "Texture",
+    "uuid": "2b7c11bb-7996-40bf-ad4f-380da2535481",
+    "version": [ 1, 0, 0 ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "d3d8ab84-1265-4037-a30a-41ae2d826b47",
+      "version": [ 1, 0, 0 ]
+    }
+  ]
+}
